@@ -50,8 +50,8 @@ Three forecasting approaches were used:
    - Handles nonlinear relationships effectively
    - Feature importance analysis  
    - **Results**:  
-     - MAE: 19.82  
-     - RMSE: 104.19  
+     - MAE: 19.73  
+     - RMSE: 103.65  
 
 2. **ARIMA (AutoRegressive Integrated Moving Average)**
    - Time series-specific model
@@ -66,8 +66,8 @@ Three forecasting approaches were used:
 ## 4. Model Performance
 
 ### 4.1 Random Forest (Primary Model)
-- **MAE**: 19.82 kW  
-- **RMSE**: 104.19 kW  
+- **MAE**: 19.73 
+- **RMSE**: 103.65  
 - **R² Score**: High correlation between predictions and actual values  
 - **Overfitting**: Balanced performance on both training and test sets  
 
